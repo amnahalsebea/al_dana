@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+Al_Dana.access_al_dana,access_al_dana,Al_Dana.model_al_dana,base.group_user,1,1,1,1
+Al_Dana.access_event_persons_lines,access_event_persons_lines,Al_Dana.model_event_persons_lines,base.group_user,1,1,1,1
